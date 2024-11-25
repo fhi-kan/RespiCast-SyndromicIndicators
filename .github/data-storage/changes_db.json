@@ -1,1 +1,32 @@
-{}
+{
+    "ISI": [
+        {
+            "model": "LSTFlu",
+            "changes": [
+                "model-output/ISI-LSTFlu/2024-11-27-ISI-LSTFlu.csv"
+            ]
+        }
+    ],
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2024-11-27-RIVM-KFdlm.csv"
+            ]
+        }
+    ],
+    "ItaLuxColab": [
+        {
+            "model": "EpiEKF",
+            "changes": [
+                "model-output/ItaLuxColab-EpiEKF/2024-11-27-ItaLuxColab-EpiEKF.csv"
+            ]
+        },
+        {
+            "model": "EpiNetEKF",
+            "changes": [
+                "model-output/ItaLuxColab-EpiNetEKF/2024-11-27-ItaLuxColab-EpiNetEKF.csv"
+            ]
+        }
+    ]
+}
