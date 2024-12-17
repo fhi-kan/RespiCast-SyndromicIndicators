@@ -56,5 +56,13 @@
                 "model-output/NotreDame-Rt_cocirc/2024-12-18-NotreDame-Rt_cocirc.csv"
             ]
         }
+    ],
+    "ISI": [
+        {
+            "model": "LSTFlu",
+            "changes": [
+                "model-output/ISI-LSTFlu/2024-12-18-ISI-LSTFlu.csv"
+            ]
+        }
     ]
 }
