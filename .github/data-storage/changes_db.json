@@ -75,6 +75,12 @@
             "changes": [
                 "model-output/ISI-FluABCaster/2024-12-18-ISI-FluABCaster.csv"
             ]
+        },
+        {
+            "model": "FluBcast",
+            "changes": [
+                "model-output/ISI-FluBcast/2024-12-18-ISI-FluBcast.csv"
+            ]
         }
     ],
     "ECDC": [
