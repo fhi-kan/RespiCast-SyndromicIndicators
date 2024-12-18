@@ -87,6 +87,12 @@
             "changes": [
                 "model-output/ISI-GLEAM/2024-12-18-ISI-GLEAM.csv"
             ]
+        },
+        {
+            "model": "SEIR_BRW",
+            "changes": [
+                "model-output/ISI-SEIR_BRW/2024-12-18-ISI-SEIR_BRW.csv"
+            ]
         }
     ],
     "ECDC": [
