@@ -1,1 +1,10 @@
-{}
+{
+    "ISI": [
+        {
+            "model": "GLEAM",
+            "changes": [
+                "model-output/ISI-GLEAM/2024-11-13-ISI-GLEAM.csv", "model-output/ISI-GLEAM/2024-11-20-ISI-GLEAM.csv", "model-output/ISI-GLEAM/2024-11-27-ISI-GLEAM.csv", "model-output/ISI-GLEAM/2024-12-04-ISI-GLEAM.csv", "model-output/ISI-GLEAM/2024-12-11-ISI-GLEAM.csv", "model-output/ISI-GLEAM/2024-12-18-ISI-GLEAM.csv"
+            ]
+        }
+    ]
+}
