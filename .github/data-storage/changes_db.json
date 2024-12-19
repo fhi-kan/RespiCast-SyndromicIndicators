@@ -1,1 +1,10 @@
-{}
+{
+    "ISI": [
+        {
+            "model": "SEIR_BRW",
+            "changes": [
+                "model-output/ISI-SEIR_BRW/2024-10-23-ISI-SEIR_BRW.csv", "model-output/ISI-SEIR_BRW/2024-10-30-ISI-SEIR_BRW.csv", "model-output/ISI-SEIR_BRW/2024-11-06-ISI-SEIR_BRW.csv", "model-output/ISI-SEIR_BRW/2024-11-13-ISI-SEIR_BRW.csv", "model-output/ISI-SEIR_BRW/2024-11-20-ISI-SEIR_BRW.csv", "model-output/ISI-SEIR_BRW/2024-11-27-ISI-SEIR_BRW.csv", "model-output/ISI-SEIR_BRW/2024-12-04-ISI-SEIR_BRW.csv", "model-output/ISI-SEIR_BRW/2024-12-11-ISI-SEIR_BRW.csv", "model-output/ISI-SEIR_BRW/2024-12-18-ISI-SEIR_BRW.csv"
+            ]
+        }
+    ]
+}
