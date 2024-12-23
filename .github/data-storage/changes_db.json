@@ -20,5 +20,13 @@
                 "model-output/ItaLuxColab-EpiNetEKF/2024-12-25-ItaLuxColab-EpiNetEKF.csv"
             ]
         }
+    ],
+    "ISI": [
+        {
+            "model": "FluABCaster",
+            "changes": [
+                "model-output/ISI-FluABCaster/2024-12-25-ISI-FluABCaster.csv"
+            ]
+        }
     ]
 }
