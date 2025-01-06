@@ -20,5 +20,13 @@
                 "model-output/ItaLuxColab-EpiNetEKF/2025-01-08-ItaLuxColab-EpiNetEKF.csv"
             ]
         }
+    ],
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2025-01-08-RIVM-KFdlm.csv"
+            ]
+        }
     ]
 }
