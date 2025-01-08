@@ -53,6 +53,12 @@
             "changes": [
                 "model-output/ISI-RC_AdaptEns2/2025-01-08-ISI-RC_AdaptEns2.csv"
             ]
+        },
+        {
+            "model": "GLEAM",
+            "changes": [
+                "model-output/ISI-GLEAM/2025-01-08-ISI-GLEAM.csv"
+            ]
         }
     ],
     "ECDC": [
