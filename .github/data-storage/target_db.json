@@ -1,1 +1,12 @@
-{}
+{
+    "ILI incidence": {
+        "changes": [
+            "target-data/FluID/snapshots/2025-01-10-ILI_incidence.csv"
+        ]
+    },
+    "ARI incidence": {
+        "changes": [
+            "target-data/FluID/snapshots/2025-01-10-ARI_incidence.csv"
+        ]
+    }
+}
