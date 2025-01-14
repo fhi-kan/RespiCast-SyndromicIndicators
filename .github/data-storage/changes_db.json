@@ -1,1 +1,10 @@
-{}
+{
+    "ISI": [
+        {
+            "model": "LSTFlu",
+            "changes": [
+                "model-output/ISI-LSTFlu/2025-01-15-ISI-LSTFlu.csv"
+            ]
+        }
+    ]
+}
