@@ -48,5 +48,13 @@
                 "model-output/ECDC-soca_simplex/2025-01-15-ECDC-soca_simplex.csv"
             ]
         }
+    ],
+    "fjordhest": [
+        {
+            "model": "ensemble",
+            "changes": [
+                "model-output/fjordhest-ensemble/2025-01-15-fjordhest-ensemble.csv"
+            ]
+        }
     ]
 }
