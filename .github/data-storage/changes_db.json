@@ -5,6 +5,12 @@
             "changes": [
                 "model-output/ISI-LSTFlu/2025-01-15-ISI-LSTFlu.csv"
             ]
+        },
+        {
+            "model": "FluABCaster",
+            "changes": [
+                "model-output/ISI-FluABCaster/2025-01-15-ISI-FluABCaster.csv"
+            ]
         }
     ],
     "RIVM": [
