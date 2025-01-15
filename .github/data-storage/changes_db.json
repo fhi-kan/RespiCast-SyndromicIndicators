@@ -29,6 +29,12 @@
             "changes": [
                 "model-output/ISI-GLEAM/2025-01-15-ISI-GLEAM.csv"
             ]
+        },
+        {
+            "model": "SEIR_BRW",
+            "changes": [
+                "model-output/ISI-SEIR_BRW/2025-01-15-ISI-SEIR_BRW.csv"
+            ]
         }
     ],
     "RIVM": [
