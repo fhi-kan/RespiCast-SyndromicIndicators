@@ -45,6 +45,12 @@
             "changes": [
                 "model-output/ISI-RC_AdaptEns2/2025-01-22-ISI-RC_AdaptEns2.csv"
             ]
+        },
+        {
+            "model": "GLEAM",
+            "changes": [
+                "model-output/ISI-GLEAM/2025-01-22-ISI-GLEAM.csv"
+            ]
         }
     ],
     "QMUL": [
