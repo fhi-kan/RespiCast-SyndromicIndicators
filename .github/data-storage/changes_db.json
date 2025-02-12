@@ -102,5 +102,13 @@
                 "model-output/NotreDame-Rt_cocirc/2025-02-12-NotreDame-Rt_cocirc.csv"
             ]
         }
+    ],
+    "safinea": [
+        {
+            "model": "syndromic",
+            "changes": [
+                "model-output/safinea-syndromic/2025-02-12-safinea-syndromic.csv"
+            ]
+        }
     ]
 }
