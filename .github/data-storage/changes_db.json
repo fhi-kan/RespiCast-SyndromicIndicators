@@ -43,6 +43,12 @@
             "changes": [
                 "model-output/ISI-GLEAM/2025-02-19-ISI-GLEAM.csv"
             ]
+        },
+        {
+            "model": "SEIR_BRW",
+            "changes": [
+                "model-output/ISI-SEIR_BRW/2025-02-19-ISI-SEIR_BRW.csv"
+            ]
         }
     ],
     "fjordhest": [
