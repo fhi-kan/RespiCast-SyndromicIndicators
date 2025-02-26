@@ -102,5 +102,13 @@
                 "model-output/ECDC-soca_simplex/2025-02-26-ECDC-soca_simplex.csv"
             ]
         }
+    ],
+    "safinea": [
+        {
+            "model": "syndromic",
+            "changes": [
+                "model-output/safinea-syndromic/2025-02-26-safinea-syndromic.csv"
+            ]
+        }
     ]
 }
