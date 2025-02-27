@@ -57,7 +57,10 @@ jobs:
       - run: |
           echo "${{ steps.get_changes.outputs.packageJson }}"
 
-          
+      # eventually install additional packages
+      - name: Installing python additional packages
+        run: pip install requests==2.32.3
+    
     
       # Trigger server-side updating and UI deploy
       # --------------------------------------------
@@ -72,7 +75,6 @@ jobs:
           data_type: "scoring"
 
         run: |
-          pip install requests
           python ./tools/code/ws_webhook.py
           
       - name: trace only
