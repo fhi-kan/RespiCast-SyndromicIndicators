@@ -58,6 +58,8 @@ jobs:
           echo "${{ steps.get_changes.outputs.packageJson }}"
 
       # eventually install additional packages
+      # installing requests specific version because the one installed with 
+      # the os (2.31.0) can casue issues with timeout scenario
       - name: Installing python additional packages
         run: pip install requests==2.32.3
     
