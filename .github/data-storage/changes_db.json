@@ -19,6 +19,12 @@
             "changes": [
                 "model-output/ISI-RC_AdaptEns2/2025-03-05-ISI-RC_AdaptEns2.csv"
             ]
+        },
+        {
+            "model": "FluABCaster",
+            "changes": [
+                "model-output/ISI-FluABCaster/2025-03-05-ISI-FluABCaster.csv"
+            ]
         }
     ],
     "ItaLuxColab": [
