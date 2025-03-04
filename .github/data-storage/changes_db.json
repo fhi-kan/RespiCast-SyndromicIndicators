@@ -54,5 +54,13 @@
                 "model-output/ECDC-soca_simplex/2025-03-05-ECDC-soca_simplex.csv"
             ]
         }
+    ],
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2025-03-05-RIVM-KFdlm.csv"
+            ]
+        }
     ]
 }
