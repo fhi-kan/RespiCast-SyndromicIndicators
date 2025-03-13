@@ -46,6 +46,7 @@ jobs:
       # Get the list of changes from a json file 
       - name: Get changes list
         id: get_changes
+        shell: bash
         run: |
           echo "Read changes list from json"
           # content=`cat ./repo/.github/data-storage/evaluation_db.json`
