@@ -46,7 +46,7 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "RespiCast-SyndromicIndicators - Target data error!"
           body: "Hi,\n\nAn error occurred during ERVISS data import process. Not sending data updated email to teams!\n\nRespiCast tech team."
-          to: paolo.milano@gmail.com,paolo.milano@isi.it  # Change with support mailing-list
+          to: paolo.milano@isi.it,corrado.gioannini@isi.it,nicolo.gozzi@isi.it
           from: "Respicast Team <respicast@isi.it>"
           content_type: text/plain
 
