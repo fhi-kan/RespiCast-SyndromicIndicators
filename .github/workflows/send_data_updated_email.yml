@@ -1,11 +1,11 @@
 name: SendDataUpdatedEmail
 
 on:
-  # workflow_run:
-  #   workflows: [TestRequests]
+  workflow_run:
+    workflows: [TestRequests]
       
-  #   types:
-  #     - completed  
+    types:
+      - completed  
 
   workflow_dispatch:
 
