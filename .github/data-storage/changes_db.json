@@ -19,6 +19,18 @@
             "changes": [
                 "model-output/ISI-SEIR_BRW/2025-04-02-ISI-SEIR_BRW.csv"
             ]
+        },
+        {
+            "model": "FluBcast",
+            "changes": [
+                "model-output/ISI-FluBcast/2025-04-02-ISI-FluBcast.csv"
+            ]
+        },
+        {
+            "model": "RC_AdaptEns2",
+            "changes": [
+                "model-output/ISI-RC_AdaptEns2/2025-04-02-ISI-RC_AdaptEns2.csv"
+            ]
         }
     ],
     "ItaLuxColab": [
