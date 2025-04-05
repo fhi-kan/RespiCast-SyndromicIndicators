@@ -12,5 +12,13 @@
                 "model-output/ItaLuxColab-EpiNetEKF/2025-04-09-ItaLuxColab-EpiNetEKF.csv"
             ]
         }
+    ],
+    "fjordhest": [
+        {
+            "model": "ensemble",
+            "changes": [
+                "model-output/fjordhest-ensemble/2025-04-09-fjordhest-ensemble.csv"
+            ]
+        }
     ]
 }
