@@ -41,6 +41,18 @@
             "changes": [
                 "model-output/ISI-LSTFlu/2025-04-09-ISI-LSTFlu.csv"
             ]
+        },
+        {
+            "model": "FluBcast",
+            "changes": [
+                "model-output/ISI-FluBcast/2025-04-09-ISI-FluBcast.csv"
+            ]
+        },
+        {
+            "model": "RC_AdaptEns2",
+            "changes": [
+                "model-output/ISI-RC_AdaptEns2/2025-04-09-ISI-RC_AdaptEns2.csv"
+            ]
         }
     ],
     "ECDC": [
