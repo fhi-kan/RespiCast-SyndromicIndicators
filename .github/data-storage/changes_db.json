@@ -6,5 +6,13 @@
                 "model-output/fjordhest-ensemble/2025-04-16-fjordhest-ensemble.csv"
             ]
         }
+    ],
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2025-04-16-RIVM-KFdlm.csv"
+            ]
+        }
     ]
 }
