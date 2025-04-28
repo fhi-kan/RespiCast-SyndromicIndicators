@@ -20,5 +20,13 @@
                 "model-output/ISI-RC_AdaptEns2/2025-04-30-ISI-RC_AdaptEns2.csv"
             ]
         }
+    ],
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2025-04-30-RIVM-KFdlm.csv"
+            ]
+        }
     ]
 }
