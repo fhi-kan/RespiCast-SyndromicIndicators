@@ -19,6 +19,12 @@
             "changes": [
                 "model-output/ISI-RC_AdaptEns2/2025-04-30-ISI-RC_AdaptEns2.csv"
             ]
+        },
+        {
+            "model": "GLEAM",
+            "changes": [
+                "model-output/ISI-GLEAM/2025-04-30-ISI-GLEAM.csv"
+            ]
         }
     ],
     "RIVM": [
