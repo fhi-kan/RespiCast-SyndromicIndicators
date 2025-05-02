@@ -23,7 +23,6 @@ jobs:
           body: "Hi,\n\nTEST EMAIL!\n\nRespiCast tech team."
           to: paolo.milano@isi.it
           from: "Respicast Team <respicast@isi.it>"
-          content_type: text/plain
 
           
       
