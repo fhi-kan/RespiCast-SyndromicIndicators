@@ -36,5 +36,19 @@
                 "model-output/NotreDame-Rt_cocirc/2025-06-25-NotreDame-Rt_cocirc.csv"
             ]
         }
+    ],
+    "ItaLuxColab": [
+        {
+            "model": "EpiEKF",
+            "changes": [
+                "model-output/ItaLuxColab-EpiEKF/2025-06-25-ItaLuxColab-EpiEKF.csv"
+            ]
+        },
+        {
+            "model": "EpiNetEKF",
+            "changes": [
+                "model-output/ItaLuxColab-EpiNetEKF/2025-06-25-ItaLuxColab-EpiNetEKF.csv"
+            ]
+        }
     ]
 }
