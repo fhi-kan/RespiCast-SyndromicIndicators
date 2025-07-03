@@ -3,9 +3,9 @@ name: CheckIntermediateRun(R)
 on:
   workflow_dispatch:
 
-  # schedule:
-  # - cron: '00 10,18 * * 0,1,2,6'
-  # - cron: '00 10 * * 3'  
+  schedule:
+  - cron: '00 10,18 * * 0,1,2,6'
+  - cron: '00 10 * * 3'  
 
 jobs:
   scheduled-submit:
