@@ -104,7 +104,6 @@ jobs:
       # Please, note that it is important that this PAT is created with the following scope:
       # - repo
       # - workflow
-      # - contents
 
 
       - name: Open the pull requests
