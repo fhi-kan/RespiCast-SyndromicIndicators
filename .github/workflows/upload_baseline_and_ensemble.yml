@@ -4,10 +4,9 @@ on:
   workflow_run:
   #   workflows: [GenerateEnsemble]
     workflows: [GenerateBaseline_Old]
-  
-      
-  #   types:
-  #     - completed
+    
+    types:
+      - completed
 
   # TEMPORARY - Until intermediate Ensemble upload is approved
   # scheduled submission every Thursday at 00.55 CET
