@@ -1,7 +1,7 @@
 name: BaselineEnsembleUpload
 
 on:
-  workflow_run:
+  # workflow_run:
   #   workflows: [GenerateEnsemble]
     # workflows: [GenerateBaseline_Old]
     
