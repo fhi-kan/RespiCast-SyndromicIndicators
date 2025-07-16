@@ -62,5 +62,13 @@
                 "model-output/safinea-PRFM/2025-07-16-safinea-PRFM.csv"
             ]
         }
+    ],
+    "NotreDame": [
+        {
+            "model": "Rt_cocirc",
+            "changes": [
+                "model-output/NotreDame-Rt_cocirc/2025-07-16-NotreDame-Rt_cocirc.csv"
+            ]
+        }
     ]
 }
