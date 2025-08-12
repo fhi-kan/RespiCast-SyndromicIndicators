@@ -42,5 +42,13 @@
                 "model-output/NotreDame-Rt_cocirc/2025-08-13-NotreDame-Rt_cocirc.csv"
             ]
         }
+    ],
+    "ISI": [
+        {
+            "model": "FluBcast",
+            "changes": [
+                "model-output/ISI-FluBcast/2025-08-13-ISI-FluBcast.csv"
+            ]
+        }
     ]
 }
