@@ -34,5 +34,13 @@
                 "model-output/ECDC-soca_simplex/2025-08-20-ECDC-soca_simplex.csv"
             ]
         }
+    ],
+    "ISI": [
+        {
+            "model": "FluBcast",
+            "changes": [
+                "model-output/ISI-FluBcast/2025-08-20-ISI-FluBcast.csv"
+            ]
+        }
     ]
 }
