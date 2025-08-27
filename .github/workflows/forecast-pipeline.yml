@@ -1,0 +1,9 @@
+name: Forecast pipeline
+
+on:
+  workflow_dispatch:
+    inputs:      
+      environment:
+        description: "Ambiente (dev|staging|prod)"
+        required: false
+        default: "prod"
