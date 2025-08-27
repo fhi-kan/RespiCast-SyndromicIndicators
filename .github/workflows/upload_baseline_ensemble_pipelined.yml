@@ -1,4 +1,4 @@
-name: BaselineEnsembleUploadPipelined
+name: UploadBaselineEnsemblePipelined
 
 on:
   workflow_dispatch:
