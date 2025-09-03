@@ -2,14 +2,14 @@ name: ForecastPipeline
 
 on:
   workflow_dispatch:
-    inputs:      
-      environment:
-        description: "Ambiente (dev|staging|prod)"
-        required: false
-        default: "prod"
+    # inputs:      
+    #   environment:
+    #     description: "Ambiente (dev|staging|prod)"
+    #     required: false
+    #     default: "prod"
 
-  # schedule:
-  #   - cron: '15 23 * * 3'
+  schedule:
+    - cron: '15 23 * * 3'
 
 jobs:
 
