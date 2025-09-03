@@ -50,5 +50,13 @@
                 "model-output/NotreDame-Rt_cocirc/2025-09-03-NotreDame-Rt_cocirc.csv"
             ]
         }
+    ],
+    "QMUL": [
+        {
+            "model": "ARIMA",
+            "changes": [
+                "model-output/QMUL-ARIMA/2025-09-03-QMUL-ARIMA.csv"
+            ]
+        }
     ]
 }
